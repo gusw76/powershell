@@ -1,5 +1,9 @@
 # Define variables
+<<<<<<< HEAD
 $repositoryUrl = "https://github.com/gusw76/store.git"  # Replace with your repository URL
+=======
+$repositoryUrl = "https://github.com/username/repository.git"  # Replace with your repository URL
+>>>>>>> 84271df85e8ae100d9df5c3cf029eb7ac665e62b
 $cloneDirectory = "C:\temp\repository"  # Replace with your desired clone directory
 $destinationDirectory = "C:\destination"  # Replace with your desired destination directory
 
